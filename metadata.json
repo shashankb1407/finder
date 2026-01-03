@@ -1,0 +1,7 @@
+{
+  "name": "FindTrace AI – Missing Person Tracking System",
+  "description": "A centralized digital platform for authorities and citizens to report, track, and identify missing persons using structured data and AI-powered visual matching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
